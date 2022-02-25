@@ -60,7 +60,7 @@ Hey My Name is Nawaz Warsi, I'm a pre-final year student at Lovely Professional 
   </tbody>
 </table>
 <hr>
-
+<div align = "center">
 ![Nawaz's Github Status](https://github-readme-stats.vercel.app/api?username=nawazwarsi&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 
