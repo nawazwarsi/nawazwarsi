@@ -43,8 +43,6 @@ Hey My Name is Nawaz Warsi, I'm a pre-final year student at Lovely Professional 
  ### 👉 Software & Tools
 
 <p>
-  &emsp;
-    
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
