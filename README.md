@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Nawaz!](https://github.com/nawazwarsi) !!
+## Hey <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Nawaz!](https://github.com/nawazwarsi) !!
 
 </h2>
 
