@@ -1,12 +1,9 @@
 ## Hey <img src="https://profile-counter.glitch.me/nawazwarsi/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Nawaz!](https://github.com/nawazwarsi) !!
 
-</h2>
 
-<hr/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawaz!;I'm+a+pre+final+year+student...;Aspiring+Data+Scienctist)](https://git.io/typing-svg)
 
-## About Me
-
-Hey My Name is Nawaz Warsi, I'm a pre-final year student at Lovely Professional University. I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+<img src="https://komarev.com/ghpvc/?username=nawazwarsi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <hr/>
 
