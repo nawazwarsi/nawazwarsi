@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawaz!;I'm+a+pre+final+year+student...;Aspiring+Data+Scienctist)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=nawazwarsi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m a pre-final year cs undergrad.
