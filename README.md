@@ -40,11 +40,12 @@
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
 <br/>
-### 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nawazwarsi&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazwarsi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nawaz's Top Languages"  /></p>
 <hr>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nawazwarsi&theme=gruvbox&hide_border=true&area=true)
 
 
