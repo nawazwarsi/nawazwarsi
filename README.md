@@ -51,7 +51,7 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazwarsi&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazwarsi-11&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nawaz's Top Languages">
 <br><br><br><br><br>
 
 <hr>
