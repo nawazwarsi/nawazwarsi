@@ -51,8 +51,8 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazwarsi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nawaz's Top Languages">
-<br><br><br><br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazwarsi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nawaz's Top Languages"  /></p>
+<br><br><br>
 
 <hr>
 
