@@ -22,11 +22,7 @@
 <br>
 </p>
 
-<hr/>
 
-
-<br>
-<br/>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nawazwarsi&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
 <hr>
@@ -36,7 +32,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nawazwarsi&theme=gruvbox&hide_border=true&area=true)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawazwarsi&" alt="heloise-viegas" /></p>
 
 
 <h3>Thanks for Stopping by!! 😊</h3>
