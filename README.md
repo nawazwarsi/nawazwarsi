@@ -30,9 +30,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazwarsi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nawaz's Top Languages"  /></p>
 <hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nawazwarsi&theme=gruvbox&hide_border=true&area=true)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawazwarsi&" alt="heloise-viegas" /></p>
-
 
 <h3>Thanks for Stopping by!! 😊</h3>
