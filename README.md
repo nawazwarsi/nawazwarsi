@@ -5,10 +5,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m a final year cs undergrad.
-- 🌱 I'm an aspiring data-scientist.
-- 👯 I’m looking to collaborate on Machine Learning and data science projects.
-- 💬 Ask me about Programming or Machine Learning.
+- 💬 Ask me about Programming.
 
 <p>Connect with me on
 <br>	
