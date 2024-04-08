@@ -1,7 +1,7 @@
 ## Hey <img src="https://profile-counter.glitch.me/nawazwarsi/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Nawaz!](https://github.com/nawazwarsi) !!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawaz!;I'm+a+final+year+student...;Aspiring+Data+Scienctist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawaz!)](https://git.io/typing-svg)
 
 <h3> Here's some fun facts about me: </h3>
 
